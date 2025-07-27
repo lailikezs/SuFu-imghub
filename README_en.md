@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://imgbed.20050626.xyz"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
+    <a href="https://ftp.20050626.xyz"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
     <p><em>🗂️Open-source file hosting solution, supporting Docker and serverless deployment, supporting multiple storage channels such as Telegram Bot, Cloudflare R2, S3, etc.</em></p>
     <p>
         <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README.md">简体中文</a> | <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README_en.md">English</a> | <a
